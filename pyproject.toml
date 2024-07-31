@@ -7,6 +7,9 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
+scweet = "^1.8"
+twscrape = "^0.13"
+streamlit = "^1.37.0"
 
 
 [build-system]
