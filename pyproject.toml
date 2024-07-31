@@ -10,6 +10,7 @@ python = "^3.12"
 scweet = "^1.8"
 twscrape = "^0.13"
 streamlit = "^1.37.0"
+twitter-scraper-selenium = "^6.1.2"
 
 
 [build-system]
